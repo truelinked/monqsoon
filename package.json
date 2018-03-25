@@ -1,0 +1,25 @@
+{
+  "name": "monqsoon",
+  "version": "0.0.1",
+  "description": "Migrate Data from MongoDB to SQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truelinked/monqsoon.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mysql",
+    "node",
+    "migration"
+  ],
+  "author": "ppalludan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/truelinked/monqsoon/issues"
+  },
+  "homepage": "https://github.com/truelinked/monqsoon#readme"
+}
